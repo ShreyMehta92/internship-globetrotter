@@ -82,6 +82,7 @@ pids
 *.pid
 *.seed
 *.pid.lock
+__pycache__/
 
 # Optional npm cache directory
 .npm
